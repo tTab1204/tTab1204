@@ -7,8 +7,8 @@ Contact me..
 
 - **Notion :** https://www.notion.so/Ju-Young-Lee-5ccfc4d5ea1a40d79ff9973ad14ab963
 
-### Tech Stack
-- ![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5&logoColor=white) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javaScript&logoColor=white) ![React](http://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typeScript&logoColor=white) ![Redux](http://img.shields.io/badge/-Redux-3178C6?style=flat&logo=redux&logoColor=white) ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) 
+### Language & Framework
+![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5&logoColor=white) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javaScript&logoColor=white) ![React](http://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typeScript&logoColor=white) ![Redux](http://img.shields.io/badge/-Redux-3178C6?style=flat&logo=redux&logoColor=white) ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) 
 
 ### StatusBar
 

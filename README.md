@@ -8,7 +8,7 @@
 - I'm Ju-Young, who is interested in UX and wants to be a front-end engineer
 
 ### Tech Stack
-- ![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javaScript) ![React](http://img.shields.io/badge/-React-skyblue?style=flat&logo=react)
+- ![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-#F7DF1E?style=flat&logo=javaScript) ![React](http://img.shields.io/badge/-React-#61DAFB?style=flat&logo=react)
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 

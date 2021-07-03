@@ -1,14 +1,4 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
-### Hi there 👋 I'm hyuno Choi
-
-- 🔭 I’m currently enrolled in Chungbuk National University
-- 🌱 I’m currently learning ![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-white?style=flat&logo=javaScript) ![React](http://img.shields.io/badge/-React-white?style=flat&logo=react)
-- 💬 Ask me anything!
-- 📫 How to reach me: soonitoon@gmail.com
-
-My major is **psycologyΨ** and **Brain-Cognitive Engineering**⚙🧠 I also interested in Programming! My first programming language is ![python](http://img.shields.io/badge/-Python-white?style=flat&logo=Python). I'm currently learing FrontEnd stack📚
-
-
 ### Ju Young
 - I'm JuYoung, who is interested in UX and wants to be a front-end engineer
 

@@ -1,5 +1,5 @@
 ### Ju Young
-- I'm JuYoung, who is interested in UX and wants to be a front-end engineer
+- 안녕하세요! 소통을 좋아하고 UX에 관심이 많은 프론트엔드 개발을 희망하는 주영입니다.
 
 Contact me...
 - email: ken44929@gmail.com 

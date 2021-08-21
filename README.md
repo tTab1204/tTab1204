@@ -1,6 +1,6 @@
-
-### Hello! I'm Juyoung
 <table>
+ <h2>Hello! I'm Juyoung</h2>
+
  <tr>
 <td valign="top"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ken1204" />
 

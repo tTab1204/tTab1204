@@ -6,7 +6,7 @@ Contact me...
 - velog: https://velog.io/@ken1204
 
 ### Language & Framework
-![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5&logoColor=white) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript]
+React, JS(ES6+), TS, Node.js, MongoDB
 
 ![JuYoung's state](https://github-readme-stats.vercel.app/api?username=tTab1204&show_icons=true&theme=tokyonight)
 

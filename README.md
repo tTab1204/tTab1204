@@ -1,7 +1,7 @@
 
 ### Hello! I'm Juyoung
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ken1204)](https://velog.io/@ken1204)
+<img align=top>[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ken1204)](https://velog.io/@ken1204)</img>
 
 📚  React, JS(ES6+), TS, Node.js, MongoDB
 

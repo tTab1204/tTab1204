@@ -1,4 +1,4 @@
-<table border=0>
+<table style="border: none;">
  <tr>
    <td valign="top">
  <h2>Hello! I'm Juyoung</h2>

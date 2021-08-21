@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table>
  <tr style="border: none;">
    <td valign="top">

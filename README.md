@@ -1,5 +1,5 @@
-<table style="border: none;">
- <tr>
+<table>
+ <tr style="border: none;">
    <td valign="top">
  <h2>Hello! I'm Juyoung</h2>
 

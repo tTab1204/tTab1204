@@ -9,13 +9,13 @@ Contact me...
 
 ### Language & Framework
 React, JS(ES6+), TS, Node.js, MongoDB
-</div>
 
-<div>
+
+
 ![JuYoung's state](https://github-readme-stats.vercel.app/api?username=tTab1204&show_icons=true&theme=tokyonight)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tTab1204&theme=tokyonight) -->
-</div>  
+ 
 
 
 

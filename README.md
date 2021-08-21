@@ -1,15 +1,10 @@
 
-### Ju Young
-<div style={{display: 'flex'}}>
-- 안녕하세요! 소통을 좋아하고 UI, UX에 관심이 많은, 프론트엔드 개발을 희망하는 주영입니다.
+### Hello! I'm Juyoung
 
 Contact me...
-- email: ken44929@gmail.com 
-- velog: https://velog.io/@ken1204
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ken1204)](https://velog.io/@ken1204)
 
-### Language & Framework
-React, JS(ES6+), TS, Node.js, MongoDB
-
+📚  React, JS(ES6+), TS, Node.js, MongoDB
 
 
 ![JuYoung's state](https://github-readme-stats.vercel.app/api?username=tTab1204&show_icons=true&theme=tokyonight)

@@ -1,6 +1,6 @@
 
 ### Hello! I'm Juyoung
-<table border="none">
+<table>
  <tr>
 <td valign="top">[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ken1204)](https://velog.io/@ken1204)
 

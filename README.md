@@ -4,7 +4,7 @@
 
 <br />
 🔧 Blog: https://velog.io/@ken1204 <br /> <br />
-📚 React, JS(ES6+), TS, Vue.js, Node.js, MongoDB
+📚 React, Next.js, Node.js, MySQL
 
 
 
